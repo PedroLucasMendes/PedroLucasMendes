@@ -3,7 +3,7 @@
 </div>
 
 - :books: Estudante de **Ciência da Computação** na **Universidade Federal do Amazonas - UFAM**.
-- :mag_right: Pesquisador no Laboratório de Ciência da Computação, **Área de IoT**, no Departamento de Computação da Universidade Federal do Amazonas.
+- :mag_right: Pesquisador no Laboratório de Ciência da Computação, **Área de IoT Sustentabilidade**, no Departamento de Computação da Universidade Federal do Amazonas.
 
 ### 🛠 &nbsp;Tecnologias
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
@@ -17,6 +17,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) 
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas) 
+  ![IoT](https://img.shields.io/badge/-IoT-333333?style=flat&logo=IoT) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucasMendes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasMendes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
